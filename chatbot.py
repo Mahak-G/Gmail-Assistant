@@ -1,6 +1,6 @@
 import openai
 import gradio
-openai.api_key= "sk*"
+openai.api_key= ""
 
 messages = [{"role": "system", "content": "You are a gmail assistant"}]
 
